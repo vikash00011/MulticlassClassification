@@ -20,3 +20,6 @@ classifier only needs to be trained on the part of the training set for the two 
 Some algorithms (such as Support Vector Machine classifiers) scale poorly with the size of the training set, so for these algorithms
 OvO is preferred since it is faster to train many classifiers on small training sets than training few classifiers on large training sets.
 For most binary classification algorithms, however, OvA is preferred.
+
+
+Pre-requesite: Please complete https://github.com/vikash00011/BinaryClassification tutorial first
